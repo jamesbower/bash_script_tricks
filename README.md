@@ -1,2 +1,2 @@
-# bash_script_tricks
+# Bash Script Tricks
 Tips for Working With Bash
